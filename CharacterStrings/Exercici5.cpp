@@ -1,4 +1,4 @@
-// 4. Crear un programa que pida una frase al usuario y cuente la cantidad de palabras que hay
+// 4. Crear un programa que pida una frase al usuario y cuente la cantidad de letras que hay
 
 #include<iostream>
 #include<string>
